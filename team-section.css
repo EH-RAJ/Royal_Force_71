@@ -178,8 +178,7 @@ h1:hover span:nth-child(4) {
   font-size: 180%;
   color: white;
 }
-/* .wrapper .back-face a i {
-} */
+
 .wrapper .back-face ul a:hover {
   background: none;
   color: #2ede98;
